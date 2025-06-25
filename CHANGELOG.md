@@ -2,8 +2,10 @@
  [1.30.6] - 2025-06-25
 - FIX LỖI HIỂN THỊ SUBDEPT Tính năng “So sánh theo phân lớp hàng hóa
 - FIX LỖI HIỂN THỊ CỘT NHÓM( GỘP HIỂN THỊ SKU ĐỦ CÁC NHÓM VD: A4A8,SPM,LCC...)
-- kiểm tra update đã được refactor
-### Fixed- Sửa lỗi hiển thị nút T7, T8
+- FIX LỖI TRUY VẤN DANH MỤC
+- BỔ SUNG SL BÁN BQ THEO THÁNG, NGÀY MỤC TRUY VẤN SKU
+- BỔ SUNG LS BÁN HÀNG CÁC THÁNG NĂM CŨ MỤC TRUY VẤN CHI TIẾT NCC
+
 
 
 
